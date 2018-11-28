@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1543403430 source:c:\users\user\onedrive\tictactoe\main.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
